@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "usbserial.ino"
+    "sketch": "code0322\\code.ino"
 }
