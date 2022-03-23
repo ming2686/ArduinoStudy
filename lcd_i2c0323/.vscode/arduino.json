@@ -1,5 +1,5 @@
 {
     "port": "COM3",
     "board": "arduino:avr:uno",
-    "sketch": "i2c_scanner.ino"
+    "sketch": "i2c_hangul.ino"
 }

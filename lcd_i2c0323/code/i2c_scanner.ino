@@ -14,4 +14,4 @@ void loop()  // 무한루프
   lcd.print("yming is pretty!!!");  // Welcome to 문자 출력
   lcd.setCursor(3, 1); // 커서 네번째칸 두번째줄 위치
   lcd.print("123456789!");  // the LK world! 문자 출력
-}
+}   
