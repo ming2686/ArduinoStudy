@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM3",
-    "sketch": "echo.ino"
+    "sketch": "gyro_sensor.ino"
 }
