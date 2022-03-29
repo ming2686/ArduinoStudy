@@ -1,5 +1,5 @@
 {
     "board": "arduino:avr:uno",
     "port": "COM6",
-    "sketch": "avoidance.ino"
+    "sketch": "arduino_src.ino"
 }
